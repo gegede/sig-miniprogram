@@ -100,7 +100,6 @@ Page(mixin({
         })
     },
     pause() {
-        console.log("aaa")
         this.setData({
             autoplay: true
         })
